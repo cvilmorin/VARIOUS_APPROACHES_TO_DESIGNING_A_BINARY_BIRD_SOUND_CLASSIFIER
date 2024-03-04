@@ -1,6 +1,6 @@
 # VARIOUS APPROACHES TO DESIGNING A BINARY BIRD SOUND CLASSIFIER
 
-# Click here for demo [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1JMFeywqofESA3xzLLE_6p4rj-pQDlaSq?authuser=2#scrollTo=DgdgWoEnO7Ru)
+# Click here for demo [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15BiFyzeRAgrVRMqCTZe37iKPAnqirOhq?usp=sharing)
 
 [![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
